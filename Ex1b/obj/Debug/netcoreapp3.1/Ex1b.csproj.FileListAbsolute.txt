@@ -1,0 +1,13 @@
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\bin\Debug\netcoreapp3.1\Ex1b.exe
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\bin\Debug\netcoreapp3.1\Ex1b.deps.json
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\bin\Debug\netcoreapp3.1\Ex1b.runtimeconfig.json
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\bin\Debug\netcoreapp3.1\Ex1b.runtimeconfig.dev.json
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\bin\Debug\netcoreapp3.1\Ex1b.dll
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\bin\Debug\netcoreapp3.1\Ex1b.pdb
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.AssemblyInfoInputs.cache
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.AssemblyInfo.cs
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.csproj.CoreCompileInputs.cache
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.dll
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.pdb
+C:\Users\T0080547\source\repos\Worksheet1_Exercises\Ex1b\obj\Debug\netcoreapp3.1\Ex1b.genruntimeconfig.cache

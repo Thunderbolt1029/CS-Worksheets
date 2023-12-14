@@ -1,0 +1,5 @@
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.1\Ex6a.csproj.AssemblyReference.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.1\Ex6a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.1\Ex6a.AssemblyInfoInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.1\Ex6a.AssemblyInfo.cs
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.1\Ex6a.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.csproj.AssemblyReference.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.AssemblyInfoInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.AssemblyInfo.cs
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.csproj.CoreCompileInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\bin\Debug\netcoreapp3.1\Ex4cExtension.exe
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\bin\Debug\netcoreapp3.1\Ex4cExtension.deps.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\bin\Debug\netcoreapp3.1\Ex4cExtension.runtimeconfig.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\bin\Debug\netcoreapp3.1\Ex4cExtension.runtimeconfig.dev.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\bin\Debug\netcoreapp3.1\Ex4cExtension.dll
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\bin\Debug\netcoreapp3.1\Ex4cExtension.pdb
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.dll
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.pdb
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex4Extension\obj\Debug\netcoreapp3.1\Ex4cExtension.genruntimeconfig.cache

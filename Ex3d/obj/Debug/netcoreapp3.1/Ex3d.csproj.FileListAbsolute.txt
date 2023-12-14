@@ -1,0 +1,13 @@
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\bin\Debug\netcoreapp3.1\Ex3d.exe
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\bin\Debug\netcoreapp3.1\Ex3d.deps.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\bin\Debug\netcoreapp3.1\Ex3d.runtimeconfig.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\bin\Debug\netcoreapp3.1\Ex3d.runtimeconfig.dev.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\bin\Debug\netcoreapp3.1\Ex3d.dll
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\bin\Debug\netcoreapp3.1\Ex3d.pdb
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.AssemblyInfoInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.AssemblyInfo.cs
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.csproj.CoreCompileInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.dll
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.pdb
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex3d\obj\Debug\netcoreapp3.1\Ex3d.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex4cExtension/1.0.0": {
+        "runtime": {
+          "Ex4cExtension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex4cExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uatu2XFndJm87NBjXuK0BlC2JHK3PBqcIf12+Rn4KNIwUsZPyCZ6Z4KTwRclqEWXNHFFQ56C8xJizzMqW3dO0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T0080547\\OneDrive - Cardinal Newman College\\Comp Sci\\Royle, Zac\\Worksheet_Exercises\\Ex3e\\Ex3e.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T0080547\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

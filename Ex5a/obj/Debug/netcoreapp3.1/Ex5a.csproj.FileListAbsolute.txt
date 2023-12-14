@@ -1,0 +1,14 @@
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\bin\Debug\netcoreapp3.1\Ex5a.exe
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\bin\Debug\netcoreapp3.1\Ex5a.deps.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\bin\Debug\netcoreapp3.1\Ex5a.runtimeconfig.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\bin\Debug\netcoreapp3.1\Ex5a.runtimeconfig.dev.json
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\bin\Debug\netcoreapp3.1\Ex5a.dll
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\bin\Debug\netcoreapp3.1\Ex5a.pdb
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.AssemblyInfoInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.AssemblyInfo.cs
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.csproj.CoreCompileInputs.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.dll
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.pdb
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.genruntimeconfig.cache
+C:\Users\Zacat\OneDrive - Cardinal Newman College\Comp Sci\Worksheet_Exercises\Ex5a\obj\Debug\netcoreapp3.1\Ex5a.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\bin\Debug\netcoreapp3.0\Ex6a - complete.exe
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\bin\Debug\netcoreapp3.0\Ex6a - complete.deps.json
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\bin\Debug\netcoreapp3.0\Ex6a - complete.runtimeconfig.json
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\bin\Debug\netcoreapp3.0\Ex6a - complete.runtimeconfig.dev.json
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\bin\Debug\netcoreapp3.0\Ex6a - complete.dll
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\bin\Debug\netcoreapp3.0\Ex6a - complete.pdb
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.csproj.AssemblyReference.cache
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.AssemblyInfoInputs.cache
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.AssemblyInfo.cs
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.csproj.CoreCompileInputs.cache
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.dll
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.pdb
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6a\obj\Debug\netcoreapp3.0\Ex6a - complete.genruntimeconfig.cache

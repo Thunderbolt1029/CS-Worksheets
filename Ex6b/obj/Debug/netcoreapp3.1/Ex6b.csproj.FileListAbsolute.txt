@@ -1,0 +1,14 @@
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\bin\Debug\netcoreapp3.1\Ex6b.exe
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\bin\Debug\netcoreapp3.1\Ex6b.deps.json
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\bin\Debug\netcoreapp3.1\Ex6b.runtimeconfig.json
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\bin\Debug\netcoreapp3.1\Ex6b.runtimeconfig.dev.json
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\bin\Debug\netcoreapp3.1\Ex6b.dll
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\bin\Debug\netcoreapp3.1\Ex6b.pdb
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.AssemblyInfoInputs.cache
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.AssemblyInfo.cs
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.csproj.CoreCompileInputs.cache
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.dll
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.pdb
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.genruntimeconfig.cache
+C:\Users\T0080547\OneDrive - Cardinal Newman College\Comp Sci\Royle, Zac\Worksheet_Exercises\Ex6b\obj\Debug\netcoreapp3.1\Ex6b.csproj.AssemblyReference.cache
